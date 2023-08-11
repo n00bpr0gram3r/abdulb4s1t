@@ -1,0 +1,22 @@
+{
+  "name": "abdulb4s1t",
+  "version": "1.0.0",
+  "description": "A portfolio website for personal use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n00bpr0gram3r/abdulb4s1t.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n00bpr0gram3r/abdulb4s1t/issues"
+  },
+  "homepage": "https://github.com/n00bpr0gram3r/abdulb4s1t#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
